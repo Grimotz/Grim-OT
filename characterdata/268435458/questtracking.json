@@ -1,0 +1,66 @@
+{
+    "hiddenQuestLines": [
+    ],
+    "options": {
+        "autoTrackNewQuests": true,
+        "autoUntrackCompletedQuests": true,
+        "showCompletedInQuestLog": true,
+        "showHiddenInQuestLog": false
+    },
+    "pinnedQuestLines": [
+    ],
+    "trackedQuests": [
+        {
+            "id": 5,
+            "isPinned": false
+        },
+        {
+            "id": 10,
+            "isPinned": false
+        },
+        {
+            "id": 12,
+            "isPinned": false
+        },
+        {
+            "id": 21,
+            "isPinned": false
+        },
+        {
+            "id": 23,
+            "isPinned": false
+        },
+        {
+            "id": 26,
+            "isPinned": false
+        },
+        {
+            "id": 28,
+            "isPinned": false
+        },
+        {
+            "id": 29,
+            "isPinned": false
+        },
+        {
+            "id": 31,
+            "isPinned": false
+        },
+        {
+            "id": 34,
+            "isPinned": false
+        },
+        {
+            "id": 38,
+            "isPinned": false
+        },
+        {
+            "id": 41,
+            "isPinned": false
+        },
+        {
+            "id": 43,
+            "isPinned": false
+        }
+    ]
+}

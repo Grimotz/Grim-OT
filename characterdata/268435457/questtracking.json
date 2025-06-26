@@ -1,0 +1,114 @@
+{
+    "hiddenQuestLines": [
+    ],
+    "options": {
+        "autoTrackNewQuests": true,
+        "autoUntrackCompletedQuests": true,
+        "showCompletedInQuestLog": true,
+        "showHiddenInQuestLog": false
+    },
+    "pinnedQuestLines": [
+    ],
+    "trackedQuests": [
+        {
+            "id": 1043,
+            "isPinned": false
+        },
+        {
+            "id": 10372,
+            "isPinned": false
+        },
+        {
+            "id": 10373,
+            "isPinned": false
+        },
+        {
+            "id": 10374,
+            "isPinned": false
+        },
+        {
+            "id": 10375,
+            "isPinned": false
+        },
+        {
+            "id": 10377,
+            "isPinned": false
+        },
+        {
+            "id": 10378,
+            "isPinned": false
+        },
+        {
+            "id": 10379,
+            "isPinned": false
+        },
+        {
+            "id": 10376,
+            "isPinned": false
+        },
+        {
+            "id": 10311,
+            "isPinned": false
+        },
+        {
+            "id": 1080,
+            "isPinned": false
+        },
+        {
+            "id": 10228,
+            "isPinned": false
+        },
+        {
+            "id": 10251,
+            "isPinned": false
+        },
+        {
+            "id": 10416,
+            "isPinned": false
+        },
+        {
+            "id": 10415,
+            "isPinned": false
+        },
+        {
+            "id": 10417,
+            "isPinned": false
+        },
+        {
+            "id": 10414,
+            "isPinned": false
+        },
+        {
+            "id": 10287,
+            "isPinned": false
+        },
+        {
+            "id": 10312,
+            "isPinned": false
+        },
+        {
+            "id": 10317,
+            "isPinned": false
+        },
+        {
+            "id": 10353,
+            "isPinned": false
+        },
+        {
+            "id": 10357,
+            "isPinned": false
+        },
+        {
+            "id": 10389,
+            "isPinned": false
+        },
+        {
+            "id": 10162,
+            "isPinned": false
+        },
+        {
+            "id": 10179,
+            "isPinned": false
+        }
+    ]
+}
