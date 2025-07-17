@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "14.05.70ce66",
+	"clientVersion": "15.00.001",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
+	"clientFolder": "Grim-OT-main",
 	"newClientUrl" : "https://github.com/Grimotz/Grim-OT/archive/refs/heads/main.zip",
 	"clientExecutable": "client.exe"
 }
