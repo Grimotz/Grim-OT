@@ -25,5 +25,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "Grim-OT-main",
 	"newClientUrl" : "https://github.com/Grimotz/Grim-OT/archive/refs/heads/main.zip",
-	"clientExecutable": "client.exe"
+	"clientExecutable": "client.exe",
+	"clientName": "GrimOT-TS"
 }

@@ -1,1 +1,10 @@
 Qt6WebEngineCore.dll
+bin/qresource/*
+characterdata/*
+minimap/*
+cache/*
+log/*
+screenshots/*
+storeimages/*
+conf/clientoptions.json
+conf/clientoptions.json
