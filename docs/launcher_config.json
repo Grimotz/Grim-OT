@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "15.03.016",
+	"clientVersion": "15.03.017",
 	"launcherVersion": "2.0.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -24,7 +24,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Grim-OT-main",
-	"newClientUrl" : "https://github.com/Grimotz/Grim-OT/archive/refs/heads/main.zip",
+	"newClientUrl" : "https://storage.googleapis.com/grimot/Grim-OT-main.zip",
 	"clientExecutable": "client.exe",
 	"clientName": "GrimOT"
 }
